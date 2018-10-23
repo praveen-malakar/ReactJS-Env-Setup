@@ -1,0 +1,19 @@
+{
+  "name": "reactjssetup",
+  "version": "1.0.0",
+  "description": "It''s an ReactJS Environment Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-malakar/ReactJS-Env-Setup.git"
+  },
+  "author": "PraveenM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-malakar/ReactJS-Env-Setup/issues"
+  },
+  "homepage": "https://github.com/praveen-malakar/ReactJS-Env-Setup#readme"
+}
